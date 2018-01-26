@@ -4,7 +4,7 @@
 We focus on affordable mobile robots that can navigate semi-autonomously indoors, sometimes outdoors,
 and that are able to carry at least a webcam or a 360° camera, among other sensors.
 
-A significant part is the simulation of those robots as well as interactions within the [Unity 3D engine](https://unity3d.com/).
+A significant part is the simulation of those robots as well as interactions in 3D.
 
 To ensure reproducibility and to widen the possible use-cases, we implement the same approaches on several robots,
 ranging from some off-the-shelf toys to developer-oriented robotic platforms, and to retrofitted wheel-chairs.
@@ -34,7 +34,7 @@ We are also very much price-concious, as this is a key to adoption.
 Thanks to a lot of existing, open-source work out there, we mainly pick, test, adapt, and document available components.
 In particular, we build upon [ROS “Robot Operating System”](http://www.ros.org/), and its large ecosystem.
 
-For similar reasons, we have picked the Unity 3D engine for our simulations and interactions needs,
+For similar reasons, we have picked the [Unity 3D engine](https://unity3d.com/) for our simulations and interactions needs,
 since it is the most widely used 3D engine worldwide, and is therefore well-known by most people working with 3D,
 including students not familiar with robotics.
 
@@ -44,6 +44,7 @@ and other good practices.
 ## Robot sofware components
 
 ### Positionning
+Encoders, Fiducials, ultrasound with [Games on Track](http://www.gamesontrack.com/), and more to come.
 
 ![Image of Games on Track and Fiducial](images/got-fiducial.jpg)
 
