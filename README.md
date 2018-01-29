@@ -41,6 +41,14 @@ including students not familiar with robotics.
 Finally, since robotic projects are complex, a focus is set on standardisation, modularisation, documentation,
 and other good practices.
 
+## Software architecture
+
+We package the different software components as [Docker containers](https://www.docker.com/what-docker) to make then easy and robust to deploy, test, and interoperate. This ensures in particular a good reproducibility and separation of concerns, which is especially good for projects that do not have an active core team to maintain everything all the time.
+This is for instance the case for series of student projects.
+It is also useful for running the same software packages during simulation than the ones running on the robots.
+
+* Read more about that in our [Docker-ROS documentation](https://github.com/DTU-R3/Docker-ROS).
+
 ## Robot sofware components
 
 ### Positionning
@@ -52,12 +60,15 @@ Encoders, Fiducials, ultrasound with [Games on Track](http://www.gamesontrack.co
 
 ![Image of ROS RVIZ Fiducials](images/rviz-fiducials.png)
 
+* Read more about than in our [navigation documentation](https://github.com/DTU-R3/Docker-ROS/tree/master/r3-navigation).
+
 ### Interaction
 
 ### Scenarios
 
 ![Image of ROS communication from Node-RED](images/ROS-Node-RED.png)
 
+* Read more about than in our [Node-RED documentation](https://github.com/DTU-R3/Docker-ROS/tree/master/r3-node-red).
 
 ## 3D features
 
