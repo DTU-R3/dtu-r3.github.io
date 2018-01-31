@@ -84,6 +84,7 @@ Encoders, Fiducials, ultrasound with [Games on Track](http://www.gamesontrack.co
 
 ### Simulated sensors
 
+![Image of ultrasound ping sensors in Unity](images/Unity-virtual-sensor-ping)
 
 ## Use-cases
 
