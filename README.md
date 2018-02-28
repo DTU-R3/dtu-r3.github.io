@@ -123,9 +123,13 @@ Unity also keeps and share with the robots the position of the Fiducials:
 
 ![Image of Fiducials in Unity](images/Unity-fiducials.png)
 
-### Computer vision
+### 3D vision and sensors
 
-Computer vision is also one of the possible way to position the robot (SLAM),
+A common type of LIDAR can be used for e.g. collision avoidance:
+
+![Image of LIDAR in ROS](images/ros-lidar.png)
+
+Stereo-vision is also one of the possible way to position the robot (SLAM),
 for instance with the [ZED Mini sensor](https://www.stereolabs.com/zed-mini/).
 
 ![Image of ZED in Unity](images/Unity-ZED.jpg)
