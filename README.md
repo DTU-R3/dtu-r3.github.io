@@ -123,6 +123,13 @@ Unity also keeps and share with the robots the position of the Fiducials:
 
 ![Image of Fiducials in Unity](images/Unity-fiducials.png)
 
+### Computer vision
+
+Computer vision is also one of the possible way to position the robot (SLAM),
+for instance with the [ZED Mini sensor](https://www.stereolabs.com/zed-mini/).
+
+![Image of ZED in Unity](images/Unity-ZED.jpg)
+
 ### Simulated sensors
 
 Our Unity software can also be used for virtual (simulated) robots,
