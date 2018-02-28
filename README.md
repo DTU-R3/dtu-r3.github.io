@@ -134,6 +134,10 @@ for instance with the [ZED Mini sensor](https://www.stereolabs.com/zed-mini/).
 
 ![Image of ZED in Unity](images/Unity-ZED.jpg)
 
+Example with Intel RealSense:
+
+![Image of Intel RealSense](images/Intel-RealSense.png)
+
 ### Simulated sensors
 
 Our Unity software can also be used for virtual (simulated) robots,
