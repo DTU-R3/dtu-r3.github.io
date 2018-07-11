@@ -42,6 +42,13 @@ including students not familiar with robotics.
 Finally, since robotic projects are complex, a focus is set on standardisation, modularisation, documentation,
 and other good practices.
 
+## Use-cases
+
+* Telepresence: such as an assistive technology for people with handicaps, or for remote inspection of a building
+* Airports: such as for helping people moving to the gate, or as a security watch
+* 360° documentation: such as for documenting the progress of a building being constructed
+* Etc.
+
 ## Software architecture
 
 We package the different software components as [Docker containers](https://www.docker.com/what-docker) to make then easy and robust to deploy, test, and interoperate. This ensures in particular a good reproducibility and separation of concerns, which is especially good for projects that do not have an active core team to maintain everything all the time.
@@ -97,6 +104,19 @@ we for instance have a compatibility with the visual programming tool [Node-RED]
 * Read more about than in our [Node-RED documentation](https://github.com/DTU-R3/Docker-ROS/tree/master/r3-node-red).
 	* Using a [ROS-to-WebSocket bridge](https://github.com/DTU-R3/Docker-ROS/tree/master/r3-ws-bridge).
 
+## 360° views
+
+Our mobile robotic platforms can be equiped with different models of 360° cameras,
+which are sending either photos or a realtime video-stream (e.g. back to a human operator using a virtual-reality helmet).
+
+Here is an example on top of a modified Patbot platform:
+
+![360° camera on top of Padbot](images/padbot-360.jpg)
+
+Example of remote control with 360° VR on top of the Arlobot platform:
+
+![Arlobot 360° VR](images/arlobot-360-vr.jpg)
+
 ## 3D features
 
 Our 3D interfaces and simulations made in Unity are meant to run on a (desktop) computer, not on the robots,
@@ -149,12 +169,6 @@ When running simulations, Unity only implements the physical layer of the robots
 while most of the higher level logic is done by running the same (ROS) software packages
 than on the physical robots.
 
-## Use-cases
-
-* Telepresence: such as an assistive technology for people with handicaps, or for remote inspection of a building
-* Airports: such as for helping people moving to the gate, or as a security watch
-* 360° documentation: such as for documenting the progress of a building being constructed
-* Etc.
 
 ## Team
 
