@@ -63,7 +63,7 @@ It is also useful for running the same software packages during simulation than 
 
 * [Parallax Arlo robot](https://github.com/DTU-R3/Docker-ROS/tree/master/r3-arlobot)
 * [Padbot](https://github.com/DTU-R3/android_core/tree/dtu-r3/padbot)
-* [Wheelchair](https://github.com/DTU-R3/Wheelchairduino-ROS)
+* [Wheelchair](https://github.com/DTU-R3/wheelchair-jetson/tree/dtu-r3/wheelchair)
 
 ### Positioning
 
