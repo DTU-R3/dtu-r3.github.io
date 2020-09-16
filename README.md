@@ -14,6 +14,9 @@ ranging from some off-the-shelf toys to developer-oriented robotic platforms, an
 ## Publications
 
 * [Comparison of Three Off-the-Shelf Visual Odometry Systems (Robotics, 2020)](https://doi.org/10.3390/robotics9030056)
+* [Eye-Gaze-Controlled Telepresence Robots for People with Motor Disabilities (HRI, 2019)](https://doi.org/10.1109/HRI.2019.8673093)
+* [Providing Access to VR Through a Wheelchair (CHI EA, 2019)](https://doi.org/10.1145/3290607.3299048)
+* [Head and gaze control of a telepresence robot with an HMD (ETRA, 2018)](https://doi.org/10.1145/3204493.3208330)
 
 ## Vision
 Faciliate multi-disciplinary research & development around mobile robots,
