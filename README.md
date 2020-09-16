@@ -11,6 +11,10 @@ ranging from some off-the-shelf toys to developer-oriented robotic platforms, an
 
 ![Image of 4 robots](images/4-robots.jpg)
 
+## Publications
+
+* [Comparison of Three Off-the-Shelf Visual Odometry Systems (Robotics, 2020)](https://doi.org/10.3390/robotics9030056)
+
 ## Vision
 Faciliate multi-disciplinary research & development around mobile robots,
 and provide a shared platform for people not necessarility skilled in robotics
@@ -172,7 +176,7 @@ than on the physical robots.
 
 ## Team
 
-* [John Paulin Hansen](http://orbit.dtu.dk/en/persons/john-paulin-hansen(119e0e25-cbb9-478c-bee2-db6d2d9c4b90).html): Professor, project leader
-* [Alexandre Alapetite](http://orbit.dtu.dk/en/persons/alexandre-alapetite(0ed01dd3-bd70-4977-b74d-98ebc70b6674).html): Technical lead, in collaboration with [Alexandra Institute](https://alexandra.dk/alexandre.alapetite)
-* [Martin Thomsen](http://orbit.dtu.dk/en/persons/martin-thomsen(73982a22-25b9-42ae-9da6-9e7c3f981d97).html): Unity developer
-* [Zhongyu Wang](http://orbit.dtu.dk/en/persons/zhongyu-wang(845b4243-b957-4817-b320-e1f22f04a8b2).html): Robotics
+* [John Paulin Hansen](https://orbit.dtu.dk/en/persons/john-paulin-hansen): Professor, project leader
+* [Alexandre Alapetite](https://www.linkedin.com/in/alexandrealapetite/): Technical lead, in collaboration with [Alexandra Institute](https://alexandra.dk/alexandre.alapetite)
+* [Martin Thomsen](https://www.linkedin.com/in/martin-thomsen-297694b9/): Unity developer
+* [Zhongyu Wang](https://www.linkedin.com/in/zhongyu-wang-4ab0b9138/): Robotics
